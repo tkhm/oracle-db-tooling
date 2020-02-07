@@ -4,11 +4,8 @@
         "linuxamd64_12102_database_2of2.zip"
     ],
     "opatch": [
-    	"p6880880_121010_Linux-x86-64.zip"
     ],
     "patches": [
-        "p21948354_121020_Linux-x86-64.zip",
-        "p22139226_121020_Linux-x86-64.zip"
     ],
     "listener": {
     	"name": "LISTENER",
