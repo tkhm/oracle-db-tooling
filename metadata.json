@@ -23,7 +23,7 @@
     "instance": {
     	"type": "OLTP",
     	"template": "General_Purpose.dbc",
-    	"global-database-name": "KSKDB",
+    	"global-database-name": "orcl.justinpaul.com",
     	"character-set": "AL32UTF8",
     	"national-character-set": "AL16UTF16",
     	"automatic-memory-management": "true",
